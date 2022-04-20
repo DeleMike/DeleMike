@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Akindele Michael
 
-- 🔭 I’m currently working on building APIs and DL models
+- 🔭 I’m currently working on building mobile applications with Flutter, APIs and DL models
 - 🌱 I’m currently learning Deep Learning and Node
 - 👯 I’m looking to collaborate on Mobile and Backend Projects
 - 🤔 I’m looking for help with Deep Learning
