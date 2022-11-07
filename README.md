@@ -7,3 +7,4 @@
 - 💬 Ask me about Flutter or Tech related, I could be of help
 - 📫 How to reach me: akindelemichael65@gmail.com
 - ⚡ Fun fact: I am not the same person as yesterday.
+- Holopin Board: [![@delemike's Holopin board](https://holopin.me/delemike)](https://holopin.io/@delemike)
