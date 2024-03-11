@@ -1,7 +1,8 @@
 ### 👋 Hi there, I'm Akindele Michael
 
-- 👨🏾‍💻 I’m currently building Starfyre utilizing Python, shell, JS, Algorithms and Data Structures.
-- 🔭 I’m currently building mobile applications with Flutter
+- 👨🏾‍💻 I’m currently looking at venturing into Dart/Python open-source ecosystems with a focus on dev tools and ML libraries/frameworks. 
+- 👨🏾‍💻 I’m currently building mobile applications with Flutter
+- 👨🏾‍🎓 I'm currently in my Final semester at the University so goal 1 is on hold but goal 2 is very active! Expected (May 2024)
 - 🌱 I’m currently learning Machine Learning
 - 📚 I’m currently learning about language translation in Deep Learning Transformers with the help of NLLB by Meta
 - 👯 I’m looking to collaborate on Software Engineering (Mobile or Python) and Machine Learning Projects
