@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Akindele Michael
 
-- 👨🏾‍🎓 I'm a Computer Science Graduate! (First Class, May 2024)
+- 👨🏾‍🎓 I'm a Computer Science Graduate! (First Class, April 2024)
 - 👨🏾‍💻 I’m currently building mobile applications with Flutter.
 - 👨🏾‍💻 I’m currently improving my tech interview DSA skills. 
 - 🌱 I’m currently learning LLMs with DataTalksClub.
