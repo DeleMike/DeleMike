@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm Akindele Michael
 
+![](https://komarev.com/ghpvc/?username=DeleMike&color=0A264F&style=for-the-badge)
+
 - 👨🏾‍💻 I’m currently building mobile applications and Backend apps with Flutter & Golang.
 - 👨🏾‍💻 I’m currently improving my Backend skills. 
 - 🌱 I’m currently learning Machine Learning with DeepLearning.ai
@@ -11,3 +13,6 @@
 - 📫 How to reach me: akindelemichael65@gmail.com or via my [Calendly](https://calendly.com/akindelemichael/akin-chat)
 - ⚡ Fun fact: I am not the same person as yesterday.
 - Holopin Board: [![@delemike's Holopin board](https://holopin.me/delemike)](https://holopin.io/@delemike)
+---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeleMike&" alt="DeleMike" /></p>
+
